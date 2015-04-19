@@ -13,3 +13,5 @@ Catch falling bits of rubbish and put them in the right recycling bin.
   - Project write-up exported to HTML using lesson_format
 - https://dl.dropboxusercontent.com/u/2738296/codeclubprojects/en-GB/07_scratch_bonus/17/Recycling.pdf
   - Project write-up exported to PDF using lesson_format
+- http://dalelane.co.uk/blog/?p=3293
+  - Blog post
